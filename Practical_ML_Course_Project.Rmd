@@ -1,9 +1,6 @@
 ---
 title: "Predict activity quality from activity monitors"
-author: "Onur Akpolat"
-date: "24. January 2015"
-output:
-  html_document:
+author: "Abbas Khan"
     keep_md: yes
 ---
 
